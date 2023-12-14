@@ -1,0 +1,1 @@
+In this attack we utlize a key logger to get the keystrokes when Jonas checks his Wireguard credentials.

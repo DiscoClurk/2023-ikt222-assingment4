@@ -1,0 +1,1 @@
+In this attack we uploads a file with a specific path which overwrites the current file named authorized_keys
